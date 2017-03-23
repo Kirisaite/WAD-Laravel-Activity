@@ -1,11 +1,11 @@
-![alt text][img1]1
-![alt text][img2]2
-![alt text][img3]3
+![alt text][img1]Home Gage
+![alt text][img2]Registration Page
+![alt text][img3]Update Page
 
 
-[img1]:github.com/Kirisaite/WAD2-Laravel-Activity/master/WAD2-Laravel-Activity/Scrn1.PNG
-[img2]:github.com/Kirisaite/WAD2-Laravel-Activity/blob/master/WAD2-Laravel-Activity/2.jpg
-[img3]:github.com/Kirisaite/WAD2-Laravel-Activity/blob/master/WAD2-Laravel-Activity/3.jpg
+[img1]:https://github.com/Kirisaite/WAD2-Laravel-Activity/blob/master/1.JPG
+[img2]:https://github.com/Kirisaite/WAD2-Laravel-Activity/blob/master/2.JPG
+[img3]:https://github.com/Kirisaite/WAD2-Laravel-Activity/blob/master/3.JPG
 
 
 
