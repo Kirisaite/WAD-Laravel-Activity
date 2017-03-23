@@ -1,3 +1,5 @@
+Student Registration
+
 ![alt text][img1]Home Gage
 ![alt text][img2]Registration Page
 ![alt text][img3]Update Page
