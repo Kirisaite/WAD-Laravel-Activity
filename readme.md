@@ -3,7 +3,7 @@
 ![alt text][img3]3
 
 
-[img1]:github.com/Kirisaite/WAD2-Laravel-Activity/master/WAD2-Laravel-Activity/1.JPG
+[img1]:github.com/Kirisaite/WAD2-Laravel-Activity/master/WAD2-Laravel-Activity/Scrn1.PNG
 [img2]:github.com/Kirisaite/WAD2-Laravel-Activity/blob/master/WAD2-Laravel-Activity/2.jpg
 [img3]:github.com/Kirisaite/WAD2-Laravel-Activity/blob/master/WAD2-Laravel-Activity/3.jpg
 
